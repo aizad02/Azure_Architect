@@ -13,6 +13,7 @@
 - The labs in this repo have subset labs from the following AZ training:
     1. AZ-900 Microsoft Azure Fundamentals
     1. DP-900 Microsoft Azure Data Fundamentals
+    1. DP-300 Administering Relational Databases on Microsoft Azure
     1. AZ-301 Microsoft Azure Architect Design ( Old )
     1. AZ-304 Microsoft Azure Architect Design ( New )
     1. AZ-303 Microsoft Azure Architect Technologies ( This Training )
